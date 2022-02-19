@@ -5,6 +5,7 @@
 ---
 
 > **NOTICE!!!**
+>
 > Due to Google's new restrictions on SMS permissions being a sensitive permission, we've removed all SMS related features from this version.
 >
 > This makes it easier for you to release your an using AutoUssd on the Google Play Store.
