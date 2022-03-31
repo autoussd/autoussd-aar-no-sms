@@ -35,11 +35,11 @@
         {
           "name": "autoussd-sdk-no-sms-3.0.1.aar",
           "url": "autoussd-sdk-no-sms-3.0.1.aar",
-          "size": 217383,
-          "sha512": "de2a5834fdbde8883fffcebb427a218b35b1273b64550bb8f63c5fbf43b6f0224bb5fb51bac849cf5657ad839a759ce61d309d4fbbfb1503372a32993b73cfcf",
-          "sha256": "a8be775d88c319ee623ffc0847c2d9f0b897baf881adb592b22e5a1858aa0604",
-          "sha1": "557c912b15c2ceac7947e3cb5be0790bef0b89fa",
-          "md5": "ce2d21d1c674e36917dcd3bb652fb758"
+          "size": 217341,
+          "sha512": "b8d4727f37dd1342fdd665cd9d52f3fb8babba4a04c4fde124ae5367f136cf6a1fdacf98bf19a437f28dfab7e6aaf1ade5ccfeb05114d54b6abbb51252f4c4f3",
+          "sha256": "0919ddfc6c08c6818d23072fc68755d90b9b553e12e23f847e52451884002d45",
+          "sha1": "246faad5cd6130437291257e3edcfd8965ae34b2",
+          "md5": "9508ea2a99987e079de005ae8282e29f"
         }
       ]
     },
@@ -147,11 +147,11 @@
         {
           "name": "autoussd-sdk-no-sms-3.0.1.aar",
           "url": "autoussd-sdk-no-sms-3.0.1.aar",
-          "size": 217383,
-          "sha512": "de2a5834fdbde8883fffcebb427a218b35b1273b64550bb8f63c5fbf43b6f0224bb5fb51bac849cf5657ad839a759ce61d309d4fbbfb1503372a32993b73cfcf",
-          "sha256": "a8be775d88c319ee623ffc0847c2d9f0b897baf881adb592b22e5a1858aa0604",
-          "sha1": "557c912b15c2ceac7947e3cb5be0790bef0b89fa",
-          "md5": "ce2d21d1c674e36917dcd3bb652fb758"
+          "size": 217341,
+          "sha512": "b8d4727f37dd1342fdd665cd9d52f3fb8babba4a04c4fde124ae5367f136cf6a1fdacf98bf19a437f28dfab7e6aaf1ade5ccfeb05114d54b6abbb51252f4c4f3",
+          "sha256": "0919ddfc6c08c6818d23072fc68755d90b9b553e12e23f847e52451884002d45",
+          "sha1": "246faad5cd6130437291257e3edcfd8965ae34b2",
+          "md5": "9508ea2a99987e079de005ae8282e29f"
         }
       ]
     }
