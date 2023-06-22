@@ -1,0 +1,159 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.autoussd",
+    "module": "autoussd-sdk-no-sms",
+    "version": "4.4.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "autoussd-sdk-no-sms-4.4.0.aar",
+          "url": "autoussd-sdk-no-sms-4.4.0.aar",
+          "size": 940151,
+          "sha512": "3298b748f9ebc8552c12b7168b3327bd4106a2e16a8ceca847d0c5cbbcc5db6956e5820a0abb31246c8eab1f47314f591cac0e80935adfb63ba5e12aa6009234",
+          "sha256": "5c385b2576f5e1aaec15322e9a80ecb4442b8f39abe34faf70df8b9f0e53f166",
+          "sha1": "79187b637f0047918e12efd9c31e5ffe2fe8ce2c",
+          "md5": "c853ce5dfe26d6ec5d85035804f851c4"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.21"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.8.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.4.2"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.6.1"
+          }
+        },
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout",
+          "version": {
+            "requires": "2.1.4"
+          }
+        },
+        {
+          "group": "androidx.activity",
+          "module": "activity-ktx",
+          "version": {
+            "requires": "1.4.0"
+          }
+        },
+        {
+          "group": "androidx.fragment",
+          "module": "fragment-ktx",
+          "version": {
+            "requires": "1.4.1"
+          }
+        },
+        {
+          "group": "androidx.room",
+          "module": "room-runtime",
+          "version": {
+            "requires": "2.4.2"
+          }
+        },
+        {
+          "group": "androidx.legacy",
+          "module": "legacy-support-v4",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.gridlayout",
+          "module": "gridlayout",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "io.socket",
+          "module": "socket.io-client",
+          "version": {
+            "requires": "2.0.0"
+          },
+          "excludes": [
+            {
+              "group": "org.json",
+              "module": "json"
+            }
+          ]
+        },
+        {
+          "group": "org.greenrobot",
+          "module": "eventbus",
+          "version": {
+            "requires": "3.3.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "autoussd-sdk-no-sms-4.4.0.aar",
+          "url": "autoussd-sdk-no-sms-4.4.0.aar",
+          "size": 940151,
+          "sha512": "3298b748f9ebc8552c12b7168b3327bd4106a2e16a8ceca847d0c5cbbcc5db6956e5820a0abb31246c8eab1f47314f591cac0e80935adfb63ba5e12aa6009234",
+          "sha256": "5c385b2576f5e1aaec15322e9a80ecb4442b8f39abe34faf70df8b9f0e53f166",
+          "sha1": "79187b637f0047918e12efd9c31e5ffe2fe8ce2c",
+          "md5": "c853ce5dfe26d6ec5d85035804f851c4"
+        }
+      ]
+    }
+  ]
+}
